@@ -1,58 +1,112 @@
-# Hi there 👋
-```bash
- ____                             _   _          _    _            _       
-/ ___|  __ _ _ __ ___   __ _ _ __| |_| |__      / \  | |__  _   _ (_) __ _ 
-\___ \ / _` | '_ ` _ \ / _` | '__| __| '_ \    / _ \ | '_ \| | | || |/ _` |
- ___) | (_| | | | | | | (_| | |  | |_| | | |  / ___ \| | | | |_| || | (_| |
-|____/ \__,_|_| |_| |_|\__,_|_|   \__|_| |_| /_/   \_\_| |_|\__,_|/ |\__,_|
-                                                                |__/       
-```
- ### Languages And Framework
- ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
- 
- ### Tools And Platform
- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
- 
- ### 📫 How to reach me: <br>
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-ahuja-3169601bb/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samahuja642/)
-<br>
-### About Me
-```py
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Samarth%20Ahuja&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Next.js&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-app = Samarth()
-app.config['SECRET_KEY']='Only_Love'
+<div align="center">
 
-@app.route('/about')
-def about():
-  return """
-  - 🔭 I’m currently working on improving myself in every aspect.
-  - 🌱 I’m currently learning Flask.
-  - 👯 I’m looking to collaborate with everyone.
-  - 😄 Pronouns: He/Him
-  - ⚡ Fun fact: Linux Lover
-  """
-  
-@app.route('/hobbies')
-def hobbies():
-  return """
-  - Playing With Linux 🐧
-  - Reading blogs and man pages 📄
-  - Singing 🎤 & Playing Cricket 🏏
-  - Spending Time with my Trees and Plants 🌳
-  """
- 
-@app.route('/future_plans')
-def plans():
-  return """
-  - Wanna Contribute to Open Source Repositories 👐
-  - Looking for help on AWS 
-  - Make Some cool Projects in Flask ✨
-  - Learn about deployement 🥁
-  """
- ```
- ### Github Stats
-![Samarth's Github Profile](https://github-readme-stats.vercel.app/api?username=samahuja642&theme=blue-green)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samahuja642&theme=blue-green)
-<br>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=samahuja642.samahuja642)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Full+Stack+Developer;Shipping+production+apps+since+2024;AI-augmented+development+workflow;500%2B+DSA+problems+solved)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**`SDE @ Unthinkable Solutions`** · **`~2 years experience`** · **`Gurgaon, India`**
+
+</div>
+
+<br/>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%">
+
+**What keeps me busy**
+
+- Architecting React UIs for complex business workflows
+- Building & consuming RESTful APIs with JWT + RBAC
+- Optimizing performance — bundle size, SSR, re-renders
+- Exploring Generative AI & integrating LLMs into dev workflows
+
+**Things I've shipped**
+
+- Production rate limiter (Fixed Window + Leaky Bucket)
+- CRA to Vite migration on a large-scale PWA
+- Seat booking engine with dynamic discount logic
+- SEO-optimized pages with Next.js SSR
+
+</td>
+<td width="50%">
+
+<img src="https://leetcard.jacoblin.cool/samarth_ahuja?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">Tech Arsenal</h2>
+
+<div align="center">
+
+| Layer | Technologies |
+|:---:|:---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff) ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=fff) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff) |
+| **Mobile** | ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=fff) |
+| **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=fff) ![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=fff) ![Gen AI](https://img.shields.io/badge/Gen_AI-412991?style=flat-square&logo=openai&logoColor=fff) |
+
+</div>
+
+---
+
+<h2 align="center">GitHub Activity</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samahuja642&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samahuja642&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samahuja642&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samahuja642&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<h2 align="center">Let's Connect</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Samarth%20Ahuja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-ahuja-3169601bb/)
+[![Gmail](https://img.shields.io/badge/-samahuja642-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samahuja642@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-samahuja642-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/samahuja642/)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samahuja642&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samahuja642/samahuja642/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samahuja642/samahuja642/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/samahuja642/samahuja642/output/github-snake.svg" width="95%"/>
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
