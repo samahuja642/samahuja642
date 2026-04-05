@@ -65,14 +65,7 @@
 <h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samahuja642&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samahuja642&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samahuja642&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 </div>
 
 <br/>
@@ -89,17 +82,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Samarth%20Ahuja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-ahuja-3169601bb/)
 [![Gmail](https://img.shields.io/badge/-samahuja642-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samahuja642@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-samahuja642-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/samahuja642/)
+[![LeetCode](https://img.shields.io/badge/-samahuja642-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/samarth_ahuja/)
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samahuja642&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
